@@ -15,7 +15,7 @@ python -m http.server
 3. open browser on http://localhost:8000
 
 ## Contributors ✨
-| ![](https://avatars0.githubusercontent.com/u/27885054?s=460&v=4 =100x100) | ... | ... |
+| ![](https://avatars0.githubusercontent.com/u/27885054?s=460&v=4) | ... | ... |
 |:-:| :-: | :-: |
 |                                                                               [alanhc]                                                                               | [...]    | [...]    |
 
