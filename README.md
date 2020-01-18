@@ -16,7 +16,7 @@ python -m http.server
 
 ## Contributors ✨
 
-| ![](https://avatars0.githubusercontent.com/u/27885054?s=460&v=4 =100x100) | ![](https://avatars3.githubusercontent.com/u/55865040?s=460&v=4 =100x100)| ... |
+| ![](https://avatars0.githubusercontent.com/u/27885054?s=460&v=4 ) | ![](https://avatars3.githubusercontent.com/u/55865040?s=460&v=4 )| ... |
 |:-:| :-: | :-: |
 | [alanhc] | [HSINYA0219] |   [...]  |
      
