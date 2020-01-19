@@ -111,7 +111,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-	background-color: #212529
+	background-color: white;
 }
 
 #mainNav .navbar-toggler {
@@ -157,7 +157,7 @@ img::-moz-selection {
 		padding-bottom: 25px;
 		transition: padding-top .3s, padding-bottom .3s;
 		border: none;
-		background-color: white;
+		background-color: transparent;
 	}
 	#mainNav .navbar-brand {
 		font-size: 1.75em;
@@ -169,7 +169,8 @@ img::-moz-selection {
 	#mainNav.navbar-shrink {
 		padding-top: 0;
 		padding-bottom: 0;
-		background-color: white
+		background-color: white;
+		box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
 	}
 	#mainNav.navbar-shrink .navbar-brand {
 		font-size: 1.25em;
