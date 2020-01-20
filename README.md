@@ -1,7 +1,7 @@
 # [DSCMCU website](https://dscmcu.github.io/)
 * powered by [startbootstrap-agency](https://github.com/BlackrockDigital/startbootstrap-agency)
 ## Preview
-![](https://i.imgur.com/WY1xMM8.png)
+![](https://i.imgur.com/YuAEv4P.png)
 
 ## Usage
 1. clone
