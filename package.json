@@ -31,9 +31,11 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
+        "braces": "^3.0.2",
         "jquery": "3.4.1",
         "jquery.easing": "^1.4.1",
-        "popper": "^1.0.1"
+        "popper": "^1.0.1",
+        "popper.js": "^1.16.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
