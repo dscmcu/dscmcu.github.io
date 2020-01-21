@@ -111,7 +111,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-	background-color: #212529
+	background-color: white;
 }
 
 #mainNav .navbar-toggler {
@@ -121,12 +121,12 @@ img::-moz-selection {
 	text-transform: uppercase;
 	color: #fff;
 	border: 0;
-	background-color: #fed136;
+	background-color: #4285F4;
 	font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
 }
 
 #mainNav .navbar-brand {
-	color: #fed136;
+	color: #4285F4;
 	font-family: 'Google Sans Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
 }
 
@@ -134,7 +134,7 @@ img::-moz-selection {
 #mainNav .navbar-brand:active,
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-	color: #fec503
+	color: #D2E3FC
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -142,7 +142,7 @@ img::-moz-selection {
 	font-weight: 400;
 	padding: .75em 0;
 	letter-spacing: 1px;
-	color: #fff;
+	color: #212121;
 	font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
 }
 
@@ -157,7 +157,7 @@ img::-moz-selection {
 		padding-bottom: 25px;
 		transition: padding-top .3s, padding-bottom .3s;
 		border: none;
-		background-color: transparent
+		background-color: transparent;
 	}
 	#mainNav .navbar-brand {
 		font-size: 1.75em;
@@ -169,7 +169,8 @@ img::-moz-selection {
 	#mainNav.navbar-shrink {
 		padding-top: 0;
 		padding-bottom: 0;
-		background-color: #212529
+		background-color: white;
+		box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
 	}
 	#mainNav.navbar-shrink .navbar-brand {
 		font-size: 1.25em;
@@ -179,7 +180,7 @@ img::-moz-selection {
 
 header.masthead {
 	text-align: center;
-	color: #fff;
+	color: #1E8E3E;
 	background-image: url(../img/header-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
