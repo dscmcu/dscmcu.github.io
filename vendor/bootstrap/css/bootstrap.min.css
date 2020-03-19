@@ -10221,7 +10221,11 @@ a.text-dark:hover {
 }
 
 .text-muted {
-	color: #6c757d!important
+	color: #6c757d!important;
+}
+
+.text-About-content{
+    text-align: left;
 }
 
 .text-black-50 {
